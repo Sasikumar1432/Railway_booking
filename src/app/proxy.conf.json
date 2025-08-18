@@ -1,0 +1,11 @@
+{
+  "/api": {
+    "target": "https://freeapi.gerasim.in/api/TrainApp/",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}
