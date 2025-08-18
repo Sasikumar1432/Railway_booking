@@ -1,3 +1,4 @@
 export const environment = {
-    ApiEndPoint: 'https://freeapi.gerasim.in/api/TrainApp/'
+  ApiEndPoint: 'https://localhost:44329/api/',
+  //ApiEndPoint: 'https://freeapi.gerasim.in/api/TrainApp/',
 };
